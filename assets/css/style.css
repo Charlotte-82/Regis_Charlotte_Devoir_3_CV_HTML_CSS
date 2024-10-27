@@ -20,6 +20,10 @@ html {
     justify-content: center;
 }
 
+p {
+    color: #333333;
+}
+
 body {
     box-sizing: border-box;
     width: 80%;
