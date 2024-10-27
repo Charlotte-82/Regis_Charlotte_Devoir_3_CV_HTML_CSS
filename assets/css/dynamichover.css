@@ -1,0 +1,14 @@
+.xpparagraph:hover {
+    border-left: solid #17abb3 3px;
+    padding: 0px 10px 1px 10px;
+    background-color: #e3e3e3;
+    cursor: default;
+}
+
+figure:hover {
+    cursor: zoom-in;
+}
+
+.icone:hover {
+    opacity: 0.5;
+}
