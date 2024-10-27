@@ -26,6 +26,19 @@ body {
     max-width: 1160px;
 }
 
+.profileparagraph > strong {
+    font-weight: normal;
+}
+
+.profileparagraph > em {
+    font-weight: normal;
+}
+
+strong, em {
+    font-weight: 700;
+    font-style: normal;
+}
+
 /* HEADER début */
 header {
     display: flex;
