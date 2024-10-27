@@ -1,0 +1,65 @@
+@media only screen and (max-width: 770px) {
+    html {
+        width: 100%;
+    }
+    
+    header {
+        display: flex;
+        flex-direction: column;
+    }
+
+    h1 {
+        font-size: large;
+    }
+
+    .lefticons, .righticons {
+        font-size: smaller;
+    }
+
+    .personaldata {
+        justify-items: center;
+    }
+
+    h2 {
+        font-size: small;
+    }
+
+    p, li {
+        font-size: smaller;
+    }
+
+    .left, .right {
+        padding: 1em;
+    }
+
+    .star {
+        width:7px;
+        height: 7px;
+    }
+
+    .comp, .lang, .level {
+        font-size: xx-small;
+    }
+
+    .square {
+        font-size: x-small;
+        margin-left: -2.5em;
+    }
+
+    .profileparagraph, .xpparagraph {
+        font-size: xx-small;
+    }
+
+    .icone {
+        width: 15px;
+        height: 15px;
+    }
+
+    .maj {
+        font-size: xx-small;
+    }
+
+    footer {
+        padding: 5px;
+    }
+}
